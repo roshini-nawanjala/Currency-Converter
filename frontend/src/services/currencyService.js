@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8082/api/currency";
+const API_URL =
+  import.meta.env.VITE_API_BASE_URL ?? "http://localhost:8082/api/currency";
 
 export const convertCurrency = async (currencyData) => {
   const response = await axios.post(`${API_URL}/convert`, currencyData);
@@ -23,9 +24,7 @@ export const deleteAllHistory = async () => {
 };
 
 export const getLiveRate = async (from, to) => {
-  const response = await axios.get(
-    `http://localhost:8082/api/currency/rate?from=${from}&to=${to}`,
-  );
+  const response = await axios.get(`${API_URL}/rate?from=${from}&to=${to}`);
 
   return response.data;
 };
