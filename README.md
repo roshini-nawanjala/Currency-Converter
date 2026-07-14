@@ -1,31 +1,31 @@
-# 💱 Currency Converter Pro
+#  Currency Converter Pro
 
 A modern Full Stack Currency Converter Web Application built using **Spring Boot**, **React**, **MongoDB**, and the **ExchangeRate API**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Currency Converter Pro allows users to convert currencies using real-time exchange rates. The application stores conversion history, displays statistics, and provides a modern responsive user interface.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌍 Real-time currency exchange rates
-- 💱 Convert between multiple currencies
-- 📊 Live exchange rate dashboard
-- 📝 Conversion history
-- 🔍 Search conversion history
-- 🗑 Delete individual history records
-- 🗑 Delete all conversion history
-- 📈 Statistics dashboard
-- 🔄 Currency swap button
-- 📱 Responsive modern UI
+-  Real-time currency exchange rates
+-  Convert between multiple currencies
+-  Live exchange rate dashboard
+-  Conversion history
+-  Search conversion history
+-  Delete individual history records
+-  Delete all conversion history
+-  Statistics dashboard
+-  Currency swap button
+-  Responsive modern UI
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Frontend
 - React.js
@@ -50,7 +50,7 @@ Currency Converter Pro allows users to convert currencies using real-time exchan
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Currency-Converter
@@ -69,7 +69,7 @@ Currency-Converter
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 ### Clone the Repository
 
@@ -140,7 +140,7 @@ currencydb
 
 ---
 
-## 📊 Application Features
+##  Application Features
 
 ✔ Live Exchange Rate Card
 
@@ -160,7 +160,7 @@ currencydb
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Page
 
@@ -179,7 +179,7 @@ currencydb
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - User Authentication (JWT)
 - Currency Charts
@@ -191,7 +191,7 @@ currencydb
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 **Roshini Nawanjala**
 
@@ -201,12 +201,12 @@ https://github.com/roshini-nawanjala
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational purposes.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, don't forget to give it a ⭐ on GitHub.
